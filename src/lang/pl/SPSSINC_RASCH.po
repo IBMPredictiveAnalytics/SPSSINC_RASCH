@@ -1,0 +1,138 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+msgid ""
+msgstr ""
+"Project-Id-Version: R 2.3.0\n"
+"Report-Msgid-Bugs-To: bugs@r-project.org\n"
+"POT-Creation-Date: 2009-03-16 15:39\n"
+"PO-Revision-Date: 2009-04-23 15:49\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Pakiet R %s jest wymagany, ale nie można było go wczytać."
+
+msgid "ERROR:"
+msgstr ""
+"BŁĄD:"
+
+msgid "Coefficients"
+msgstr ""
+"Współczynniki"
+
+msgid "Value"
+msgstr ""
+"Wartość"
+
+msgid "Standard Error"
+msgstr ""
+"Błąd standardowy"
+
+msgid "Z"
+msgstr ""
+"U"
+
+msgid "Rasch Model"
+msgstr ""
+"Model Rasch"
+
+msgid "Akaike Information Criterion (AIC)"
+msgstr ""
+"Kryterium informacyjne Akaike (AIC)"
+
+msgid "Bayesian Information Criterion (BIC)"
+msgstr ""
+"Bayesowskie kryterium informacyjne (BIC)"
+
+msgid "Summary"
+msgstr ""
+"Podsumowanie"
+
+msgid "Difficulty:"
+msgstr ""
+"Trudność:"
+
+msgid "Discrimination"
+msgstr ""
+"Rozróżnialność"
+
+msgid "Chi-square"
+msgstr ""
+"Chi-kwadrat"
+
+msgid "Sig."
+msgstr ""
+"Ist."
+
+msgid "Item Fit Statistics"
+msgstr ""
+"Statystyka dopasowania elementu"
+
+msgid "Response pattern"
+msgstr ""
+"Wzór odpowiedzi"
+
+msgid "Item %s"
+msgstr ""
+"Element %s"
+
+msgid "Levine and Rubin person-fit statistic"
+msgstr ""
+"Statystyka dopasowania osoby Levine'a i Rubina"
+
+msgid "Drasgow person-fit statistic"
+msgstr ""
+"Statystyka dopasowania osoby Drasgowa"
+
+msgid "P-value for Drasgow person-fit statistic"
+msgstr ""
+"P-wartość dla statystyki dopasowania osoby Drasgowa"
+
+msgid "Observed frequency"
+msgstr ""
+"Zaobserwowana częstotliwość"
+
+msgid "Expected frequency"
+msgstr ""
+"Oczekiwana częstotliwość"
+
+msgid "Factor scores"
+msgstr ""
+"Oceny czynników"
+
+msgid "Factor scores standard errors"
+msgstr ""
+"Standardowe błędy ocen czynników"
+
+msgid "Residuals"
+msgstr ""
+"Reszty"
+
+msgid "Failed to create person fit statistics dataset. Dataset name must not already exist: "
+msgstr ""
+"Nie udało się utworzyć zbioru danych reszt. Nazwa zbioru danych nie może już istnieć:"
+
+msgid "Failed to create Descriptives plot. Descriptives plot requires 3 or more items."
+msgstr ""
+"Nie udało się stworzyć wykresu zmiennych opisowych. Wykres zmiennych opisowych wymaga przynajmniej 3 pozycji testowych."
