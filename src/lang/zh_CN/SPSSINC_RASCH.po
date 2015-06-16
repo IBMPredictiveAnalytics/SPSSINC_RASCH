@@ -1,0 +1,164 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: SPSSINC_RASCH.R:89
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"需要 R %s 程序包，但未能将其装入。"
+
+#: SPSSINC_RASCH.R:98
+msgid "Discrimination parameter constrained to %.4f"
+msgstr ""
+"约束为 %.4f 的区分参数"
+
+#: SPSSINC_RASCH.R:105
+#: SPSSINC_RASCH.R:110
+msgid "ERROR:"
+msgstr ""
+"错误："
+
+#: SPSSINC_RASCH.R:119
+msgid "Rasch Model"
+msgstr ""
+"Rasch 模型"
+
+#: SPSSINC_RASCH.R:124
+msgid "Akaike Information Criterion (AIC)"
+msgstr ""
+"赤池信息准则 (AIC)"
+
+#: SPSSINC_RASCH.R:124
+msgid "Bayesian Information Criterion (BIC)"
+msgstr ""
+"贝叶斯信息准则 (BIC)"
+
+#: SPSSINC_RASCH.R:125
+#: SPSSINC_RASCH.R:135
+msgid "Value"
+msgstr ""
+"值"
+
+#: SPSSINC_RASCH.R:127
+msgid "Summary"
+msgstr ""
+"摘要"
+
+#: SPSSINC_RASCH.R:134
+msgid "Difficulty:"
+msgstr ""
+"难度："
+
+#: SPSSINC_RASCH.R:134
+msgid "Discrimination"
+msgstr ""
+"区分"
+
+#: SPSSINC_RASCH.R:135
+msgid "Standard Error"
+msgstr ""
+"标准误差"
+
+#: SPSSINC_RASCH.R:135
+msgid "Z"
+msgstr ""
+"Z"
+
+#: SPSSINC_RASCH.R:137
+msgid "Coefficients"
+msgstr ""
+"系数"
+
+#: SPSSINC_RASCH.R:146
+msgid "Chi-square"
+msgstr ""
+"卡方"
+
+#: SPSSINC_RASCH.R:146
+msgid "Sig."
+msgstr ""
+"显著性"
+
+#: SPSSINC_RASCH.R:148
+msgid "Item Fit Statistics"
+msgstr ""
+"项拟合统计"
+
+#: SPSSINC_RASCH.R:156
+msgid "Failed to create Descriptives plot. Descriptives plot requires 3 or more items."
+msgstr ""
+"创建描述性统计图失败。描述性统计图需要 3 个或 3 个以上的项。"
+
+#: SPSSINC_RASCH.R:180
+msgid "Response pattern"
+msgstr ""
+"响应模式"
+
+#: SPSSINC_RASCH.R:182
+msgid "Item %s"
+msgstr ""
+"项 %s"
+
+#: SPSSINC_RASCH.R:185
+msgid "Levine and Rubin person-fit statistic"
+msgstr ""
+"莱文和鲁宾人员拟合统计"
+
+#: SPSSINC_RASCH.R:186
+msgid "Drasgow person-fit statistic"
+msgstr ""
+"格拉斯哥人员拟合统计"
+
+#: SPSSINC_RASCH.R:187
+msgid "P-value for Drasgow person-fit statistic"
+msgstr ""
+"格拉斯哥人员拟合统计的 P 值"
+
+#: SPSSINC_RASCH.R:188
+msgid "Observed frequency"
+msgstr ""
+"实测频率"
+
+#: SPSSINC_RASCH.R:189
+msgid "Expected frequency"
+msgstr ""
+"期望频率"
+
+#: SPSSINC_RASCH.R:190
+msgid "Factor scores"
+msgstr ""
+"因子得分"
+
+#: SPSSINC_RASCH.R:191
+msgid "Factor scores standard errors"
+msgstr ""
+"因子得分标准误差"
+
+#: SPSSINC_RASCH.R:192
+msgid "Residuals"
+msgstr ""
+"残差"
+
+#: SPSSINC_RASCH.R:219
+msgid "Failed to create person fit statistics dataset. Dataset name must not already exist: "
+msgstr ""
+"创建人员拟合统计数据集失败。数据集名称不得已存在："
+
+
