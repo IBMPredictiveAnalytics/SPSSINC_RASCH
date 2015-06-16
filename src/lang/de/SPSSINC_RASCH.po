@@ -1,0 +1,138 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2012
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+msgid ""
+msgstr ""
+"Project-Id-Version: R 2.3.0\n"
+"Report-Msgid-Bugs-To: bugs@r-project.org\n"
+"POT-Creation-Date: 2009-03-16 15:39\n"
+"PO-Revision-Date: 2009-04-23 15:49\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Das R %s-Paket ist erforderlich konnte aber nicht geladen werden."
+
+msgid "ERROR:"
+msgstr ""
+"FEHLER:"
+
+msgid "Coefficients"
+msgstr ""
+"Koeffizienten"
+
+msgid "Value"
+msgstr ""
+"Wert"
+
+msgid "Standard Error"
+msgstr ""
+"Standardfehler"
+
+msgid "Z"
+msgstr ""
+"U"
+
+msgid "Rasch Model"
+msgstr ""
+"Rasch-Modell"
+
+msgid "Akaike Information Criterion (AIC)"
+msgstr ""
+"Akaike-Informationskriterium (AIC)"
+
+msgid "Bayesian Information Criterion (BIC)"
+msgstr ""
+"Bayes-Informationskriterium (BIC)"
+
+msgid "Summary"
+msgstr ""
+"Übersicht"
+
+msgid "Difficulty:"
+msgstr ""
+"Difficulty:"
+
+msgid "Discrimination"
+msgstr ""
+"Discrimination"
+
+msgid "Chi-square"
+msgstr ""
+"Chi-Quadrat"
+
+msgid "Sig."
+msgstr ""
+"Sig."
+
+msgid "Item Fit Statistics"
+msgstr ""
+"Itemanpassungsstatistik"
+
+msgid "Response pattern"
+msgstr ""
+"Antwortmuster"
+
+msgid "Item %s"
+msgstr ""
+"Element %s"
+
+msgid "Levine and Rubin person-fit statistic"
+msgstr ""
+"Personenanpassungsstatistik von Levine und Rubin"
+
+msgid "Drasgow person-fit statistic"
+msgstr ""
+"Personenanpassungsstatistik von Drasgow"
+
+msgid "P-value for Drasgow person-fit statistic"
+msgstr ""
+"P-Wert für die Personenanpassungsstatistik von Drasgow"
+
+msgid "Observed frequency"
+msgstr ""
+"Beobachtete Häufigkeit"
+
+msgid "Expected frequency"
+msgstr ""
+"Erwartete Häufigkeit"
+
+msgid "Factor scores"
+msgstr ""
+"Faktorscores"
+
+msgid "Factor scores standard errors"
+msgstr ""
+"Standardfehler der Faktorscores"
+
+msgid "Residuals"
+msgstr ""
+"Residuen"
+
+msgid "Failed to create person fit statistics dataset. Dataset name must not already exist: "
+msgstr ""
+"Dataset mit Personenanpassungsstatistik kann nicht erstellt werden. Datasetname darf nicht bereits vorhanden sein: "
+
+msgid "Failed to create Descriptives plot. Descriptives plot requires 3 or more items."
+msgstr ""
+"Deskriptives Diagramm konnte nicht erstellt werden. Deskriptive Diagramme erfordern mindestens 3 Elemente."
