@@ -1,0 +1,138 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+msgid ""
+msgstr ""
+"Project-Id-Version: R 2.3.0\n"
+"Report-Msgid-Bugs-To: bugs@r-project.org\n"
+"POT-Creation-Date: 2009-03-16 15:39\n"
+"PO-Revision-Date: 2009-04-23 15:49\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 패키지가 필요하지만 로드할 수 없습니다."
+
+msgid "ERROR:"
+msgstr ""
+"오차:"
+
+msgid "Coefficients"
+msgstr ""
+"계수"
+
+msgid "Value"
+msgstr ""
+"값"
+
+msgid "Standard Error"
+msgstr ""
+"표준오차"
+
+msgid "Z"
+msgstr ""
+"Z"
+
+msgid "Rasch Model"
+msgstr ""
+"Rasch 모형"
+
+msgid "Akaike Information Criterion (AIC)"
+msgstr ""
+"Akaike 정보 기준(AIC)"
+
+msgid "Bayesian Information Criterion (BIC)"
+msgstr ""
+"베이지안 정보 기준(BIC)"
+
+msgid "Summary"
+msgstr ""
+"요약"
+
+msgid "Difficulty:"
+msgstr ""
+"난이도:"
+
+msgid "Discrimination"
+msgstr ""
+"판별"
+
+msgid "Chi-square"
+msgstr ""
+"카이제곱"
+
+msgid "Sig."
+msgstr ""
+"유의확률"
+
+msgid "Item Fit Statistics"
+msgstr ""
+"항목 적합도 통계량"
+
+msgid "Response pattern"
+msgstr ""
+"반응 패턴"
+
+msgid "Item %s"
+msgstr ""
+"항목 %s"
+
+msgid "Levine and Rubin person-fit statistic"
+msgstr ""
+"Levine 및 Rubin 피험자 적합도 통계"
+
+msgid "Drasgow person-fit statistic"
+msgstr ""
+"Drasgow 피험자 적합도 통계"
+
+msgid "P-value for Drasgow person-fit statistic"
+msgstr ""
+"Drasgow 피험자 적합도 통계에 대한 P-값"
+
+msgid "Observed frequency"
+msgstr ""
+"관측빈도"
+
+msgid "Expected frequency"
+msgstr ""
+"기대빈도"
+
+msgid "Factor scores"
+msgstr ""
+"요인점수"
+
+msgid "Factor scores standard errors"
+msgstr ""
+"요인점수 표준오차"
+
+msgid "Residuals"
+msgstr ""
+"잔차"
+
+msgid "Failed to create person fit statistics dataset. Dataset name must not already exist: "
+msgstr ""
+"피험자 적합도 통계 데이터 세트를 만들지 못했습니다. 데이터 세트 이름이 미리 존재하지 않아야 합니다. "
+
+msgid "Failed to create Descriptives plot. Descriptives plot requires 3 or more items."
+msgstr ""
+"기술통계 도표를 만들지 못했습니다. 기술통계 도표는 3개 이상의 항목이 필요합니다."
