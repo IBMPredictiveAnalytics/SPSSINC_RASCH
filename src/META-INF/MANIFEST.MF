@@ -1,0 +1,18 @@
+Name: SPSSINC RASCH
+Dialog-Specs: SPSSINC_RASCH.spd
+Command-Specs: SPSSINC_RASCH.xml
+Code-Files: SPSSINC_RASCH.R
+Misc-Files: markdown.html,extsyntax.css,IBMdialogicon.png
+Summary: Estimate a Rasch model for item response data.
+Description: This procedure estimates the parameters of the Rasch mode
+ l for item response data, using the rasch function from the R ltm pac
+ kage.
+Author: IBM SPSS
+Version: 1.4.6
+Product-Version: 18
+Date: 1/2/2014
+Links: http://wiki.r-project.org/rwiki/doku.php?id=packages:cran:ltm
+Categories: Extension Commands, R, Statistics
+Plugins: R
+R-Packages: ltm
+Translation-Catalogues: lang
