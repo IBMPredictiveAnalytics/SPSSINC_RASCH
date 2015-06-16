@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>SPSSINC RASCH Extension Command</title>
+
+<link rel="stylesheet" type="text/css" href="extsyntax.css" />
+
+
+
+
+
+</head>
+
+<body>
+<h1>SPSSINC RASCH Extension Command</h1>
+
+<p>Calculate a RASCH model</p>
+
+<p>See the STATS EXRASCH extension command for a more general set of models.</p>
+<div class="syntax">
+<p>SPSSINC RASCH </p>
+
+<p>/VARIABLES ITEMS=<em>variable list</em><sup>&#42;</sup>  </p>
+
+<p>/OPTIONS MISSING=LISTWISE<sup>&#42;&#42;</sup> or ALLAVAILABLE EXECUTE=TRUE<sup>&#42;&#42;</sup> or FALSE
+ALPHA=<em>number</em></p>
+
+<p>/PRINT SUMMARY ITEMFIT</p>
+
+<p>/PLOT DESCRIPTIVES FACTORSCORES ICC IIC  </p>
+
+<p>/SAVE PROGRAMFILE=&ldquo;<em>filespec</em>&rdquo;
+PERSONFITDATASET=<em>datasetname</em></p>
+
+<p><sup>&#42;</sup> Required<br/>
+<sup>&#42;&#42;</sup> Default</p>
+</div>
+<p>SPSSINC RASCH /HELP prints this information and does nothing else.</p>
+
+
+
+<pre class="example"><code>SPSSINC RASCH 
+  /VARIABLES ITEMS=item1 item2 item3 item4 item5.
+</code></pre>
+
+<p>Split files and weight are not honored by this command.</p>
+
+<p><strong>VARIABLES</strong> specifies the items.  It is assumed that
+the values of these variables are 0 or 1.</p>
+
+<h2>OPTIONS</h2>
+
+<p><strong>MISSING</strong>=LISTWISE causes listwise deletion of missing values.  ALLAVAILABLE
+causes all available information to be used; i.e., cases with missing values
+are still used.</p>
+
+<p><strong>EXECUTE</strong>=FALSE processes the command syntax but does not execute it.
+This is mainly useful in combination with SAVE PROGRAMFILE.</p>
+
+<p>By default, the discrimination parameter, alpha, is estimated.  Use
+<strong>ALPHA</strong>=number to constrain it to a specific value, typically 1.</p>
+
+<h2>PRINT</h2>
+
+<p><strong>SUMMARY</strong> displays the Akaike Information Criterion (AIC) and Bayesian Information
+Criterion (BIC) for the model.</p>
+
+<p><strong>ITEMFIT</strong> displays the item fit statistics and p-values for each item.</p>
+
+<h2>PLOT</h2>
+
+<p><strong>DESCRIPTIVES</strong> displays a plot of the proportion of correct responses for each 
+item versus the total correct.</p>
+
+<p><strong>FACTORSCORES</strong> displays a plot of kernel density estimates for the factor scores 
+(people parameters).</p>
+
+<p><strong>ICC</strong> displays a plot of the item characteristic curves for the model.</p>
+
+<p><strong>IIC</strong> displays a plot of the iterm information curves for the model.</p>
+
+<h2>SAVE</h2>
+
+<p><strong>PROGRAMFILE</strong> causes the R code that implements the procedure to be 
+written to the specified file. Since the R function has features not 
+exposed in this extension command, the generated program can be a useful 
+starting point for additional specifications.</p>
+
+<p><strong>PERSONFITDATASET</strong> creates a new dataset that contains a case for each observed 
+response pattern, variables that describe the response patterns (one for each
+item), and variables containing the Levine and Rubin person-fit statistic, 
+Drasgow person-fit statistic, P-value for Drasgow person-fit statistic,
+Observed frequency, Expected frequency, Factor scores, Factor scores standard errors,
+and Residuals.</p>
+
+<p>&copy; Copyright IBM Corp. 1989, 2014</p>
+
+</body>
+
+</html>
+
