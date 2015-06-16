@@ -1,0 +1,138 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+msgid ""
+msgstr ""
+"Project-Id-Version: R 2.3.0\n"
+"Report-Msgid-Bugs-To: bugs@r-project.org\n"
+"POT-Creation-Date: 2009-03-16 15:39\n"
+"PO-Revision-Date: 2009-04-23 15:49\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s パッケージが必要ですが、読み込むことができませんでした。"
+
+msgid "ERROR:"
+msgstr ""
+"誤差"
+
+msgid "Coefficients"
+msgstr ""
+"係数(O)"
+
+msgid "Value"
+msgstr ""
+"値"
+
+msgid "Standard Error"
+msgstr ""
+"標準誤差"
+
+msgid "Z"
+msgstr ""
+"Z"
+
+msgid "Rasch Model"
+msgstr ""
+"Rasch モデル"
+
+msgid "Akaike Information Criterion (AIC)"
+msgstr ""
+"赤池情報量基準 (AIC)"
+
+msgid "Bayesian Information Criterion (BIC)"
+msgstr ""
+"ベイジアン情報基準 (BIC)"
+
+msgid "Summary"
+msgstr ""
+"集計"
+
+msgid "Difficulty:"
+msgstr ""
+"問題:"
+
+msgid "Discrimination"
+msgstr ""
+"区別"
+
+msgid "Chi-square"
+msgstr ""
+"カイ 2 乗"
+
+msgid "Sig."
+msgstr ""
+"有意確率"
+
+msgid "Item Fit Statistics"
+msgstr ""
+"項目適合度統計"
+
+msgid "Response pattern"
+msgstr ""
+"回答パターン"
+
+msgid "Item %s"
+msgstr ""
+"項目 %s"
+
+msgid "Levine and Rubin person-fit statistic"
+msgstr ""
+"Levine & Rubin 個人適合度統計"
+
+msgid "Drasgow person-fit statistic"
+msgstr ""
+"Drasgow 個人適合度統計"
+
+msgid "P-value for Drasgow person-fit statistic"
+msgstr ""
+"Drasgow 個人適合度統計の P 値"
+
+msgid "Observed frequency"
+msgstr ""
+"観測された度数"
+
+msgid "Expected frequency"
+msgstr ""
+"期待された度数"
+
+msgid "Factor scores"
+msgstr ""
+"因子スコア"
+
+msgid "Factor scores standard errors"
+msgstr ""
+"因子スコア標準誤差"
+
+msgid "Residuals"
+msgstr ""
+"残差"
+
+msgid "Failed to create person fit statistics dataset. Dataset name must not already exist: "
+msgstr ""
+"個人適合度データセットを作成できませんでした。 データセット名は事前に存在してはいけません。 "
+
+msgid "Failed to create Descriptives plot. Descriptives plot requires 3 or more items."
+msgstr ""
+"記述統計量プロットを作成できませんでした。 記述統計量プロットには 3 つ以上の項目が必要です。"
