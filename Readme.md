@@ -1,11 +1,13 @@
 # SPSSINC RASCH
 ## Estimate a Rasch model for item response data.
- This procedure estimates the parameters of the Rasch mode  l for item response data, using the rasch function from the R ltm pac  kage.
+ This procedure estimates the parameters of the Rasch model for item response data.
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
+
+Note: The SPSSINC RASCH extension is installed as part of IBM SPSS Statistics-Essentials for R. See also the STATS EXRASCH extension.
 
 ---
 Installation intructions
