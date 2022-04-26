@@ -8,7 +8,7 @@ Description: This procedure estimates the parameters of the Rasch mode
  l for item response data, using the rasch function from the R ltm pac
  kage.
 Author: IBM SPSS
-Version: 1.4.6
+Version: 1.4.7
 Product-Version: 18
 Date: 1/2/2014
 Links: http://wiki.r-project.org/rwiki/doku.php?id=packages:cran:ltm
